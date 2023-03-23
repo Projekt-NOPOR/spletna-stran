@@ -4,13 +4,16 @@ title: Udeleženci
 ---
 
 <p class="message">
-  
+  Na projektu poleg podjetja ORO orodjarna d.o.o sodeluje 10 študentov s Fakultete za računalništvo in informatiko ter Fakultete za strojništvo Univerze v Ljubljani ter 2 pedagoška mentorja.
 </p>
 
 
-## Udeleženci: 
-* Podjetje: ORO Orodjarna d.o.o
-* Profersor: Uroš Čibej
+### Pedagoška mentorja: 
+* doc. dr. Uroš Čibej
+* prof. dr. Franci Pušavec
+
+### Delavni mentor:
+* Tomaž Kavčič
 
 ### Študenti: 
 
