@@ -376,8 +376,7 @@ PLATFORMS
   x64-mingw-ucrt
 
 DEPENDENCIES
-  github-pages
-  jekyll (~> 3.9.3)
+  github-pages (~> 228)
   jekyll-paginate
   rails
   webrick (~> 1.8)
