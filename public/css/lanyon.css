@@ -103,13 +103,12 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
   margin-bottom: 0;
   color: #505050;
-  font-size: xx-large;
 }
 .masthead-title a {
   color: #505050;
 }
 .masthead-title small {
-  font-size: 100%;
+  font-size: 75%;
   font-weight: 400;
   color: #c0c0c0;
   letter-spacing: 0;
@@ -317,7 +316,6 @@ a.sidebar-nav-item:focus {
 .page-title,
 .post-title {
   margin-top: 0;
-  
 }
 
 /* Meta data line below post title */
