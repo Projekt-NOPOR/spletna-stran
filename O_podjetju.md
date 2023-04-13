@@ -1,12 +1,16 @@
 ---
 layout: page
-title: O podjetju ORO S d.o.o.
+title: ORO Orodjarna d.o.o.
 ---
 
 <p class="message">
-Podjetje ORO S, proizvodnja, trgovina in storitve d.o.o.
+
 </p>
 
-Podjetje ORO S, se ukvarja z izdelavo sestavnih delov orodji za predelavo termoplastov in livarsko industrijo, ter rezilna orodja. Ustanovljeno je bilo leta 2008 v Studenem pri Postojni, danes pa deluje v industrijsko-obrtni coni Neverke pri Pivki.
+ORO Orodjarna d.o.o. se je v tridesetih letih iz obrtne delavnice za podporo orodjarski industriji razvila v sodobno, tehnološko napredno in mednarodno prepoznavno družinsko podjetje. Naši poglavitni dejavnosti sta načrtovanje in izdelovanje orodij za predelavo termoplastov.
+
+Potrebe in zahteve trga so nas vseskozi vodile v proizvodnjo večjih in zahtevnejših orodij, predvsem za avtomobilsko industrijo.
+
+Danes je 50- članski kolektiv usmerjen k nenehni rasti in razvoju.
 
 
