@@ -21,8 +21,6 @@ title: Udeleženci
 
 #### Vanja Stojanović
 
-Sem študent Fakultete za računalništvo in informatiko. Ukvarjam se z računalniškimi omrežji, razvojem, deployment in integracijo aplikacij. Na tem področju delujem tudi, kot Junior DevOps Engineer, v podjetu za razvoj programske opreme Adacta. Med samim projektom sem skrbel za skladnost programske kode v fazah razvoja aplikacije ter za integracijo projekta na strankine sisteme.
-
 #### Andjela Rajović
 
 #### Urh Jamšek

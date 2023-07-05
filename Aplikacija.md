@@ -19,3 +19,7 @@ Logika aplikacije je zgrajena s pomočjo Python-a. Python se uporablja za razvoj
 Uporabniški vmesnik je izdelan z uporabo JavaScripta, specifično pa uporablja React Framework. React je moderno ogrodje za gradnjo uporabniškega vmesnika, ki omogoča razdelitev uporabniškega vmesnika na komponente, kar omogoča boljše vzdrževanje in razširljivost. Front-end je odgovoren za prikazovanje uporabniku prijaznega vmesnika, ki omogoča tehnologom, da vnesejo relevantne podatke za ocenjevanje orodij in vidijo rezultate ocene.
 
 Z uporabo te aplikacije tehnologi v orodjarski industriji lahko hitreje in bolj natančno ocenijo časovno zahtevnost, potrebno opremo, material in druge vire, ki so potrebni za izdelavo različnih orodij. To lahko pripomore k boljšemu načrtovanju proizvodnje, zmanjšanju stroškov in izboljšanju učinkovitosti dela v orodjarski industriji.
+
+
+### Prikaz step primera
+{% include 3luknje_h_d-sfa.html %}
