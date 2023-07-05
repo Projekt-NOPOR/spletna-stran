@@ -13,5 +13,5 @@ Potrebe in zahteve trga so nas vseskozi vodile v proizvodnjo večjih in zahtevne
 
 Danes je 50- članski kolektiv usmerjen k nenehni rasti in razvoju.
 
-![ORO Orodjarna d.o.o.](/images/oro.jpg){:class="img-responsive"}
+<img src="images/oro.jpg" alt="ORO Orodjarna d.o.o.">
 *Vir: ORO Orodjarna d.o.o.*
