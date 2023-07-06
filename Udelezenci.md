@@ -60,5 +60,6 @@ V drugem delu sva delala na razvoju praktičnih primerov uporabe. Kodo, ki jo je
 
 #### Andjela, Vanja
 <p>
-idk, todo
+Tekom projekta smo morali zagotavljati integracijsko komponento na strankini strani, saj produkt moramo nekako dostaviti in "integrirati" v njihovo že-obstoječo infrastrukturo.
+Moduli projekta, ki so bili napisani ali v Python tehnologiji ali v Javascript, morajo biti združeni v eno skupno aplikacijo, ki bo delovala uporabniku brezhibno, kljub mešanju raznih komponent, za to je ekipa za integracijo uporabila Javascript-ino ogrodje Electron. Ta dopušča tako imenovano "pakiranje" programske kode v enostavno za uporabo, aplikacijo, ki jo lahko kdrokoli požene in uporablja.
 </p>
