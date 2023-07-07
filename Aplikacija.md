@@ -27,5 +27,10 @@ Z uporabo te aplikacije tehnologi v orodjarski industriji lahko hitreje in bolj 
 <img src="../images/app_2.png" alt="">
 
 
+### Potek aplikacije
+*Slika 3: diagram poteka aplikacije*
+<img src="../images/potek_aplikacije.png" alt="">
+
+
 ### Interaktiven prikaz step primera
 {% include 3luknje_h_d-sfa.html %}
