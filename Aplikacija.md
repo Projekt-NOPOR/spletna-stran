@@ -20,6 +20,12 @@ Uporabniški vmesnik je izdelan z uporabo JavaScripta, specifično pa uporablja 
 
 Z uporabo te aplikacije tehnologi v orodjarski industriji lahko hitreje in bolj natančno ocenijo časovno zahtevnost, potrebno opremo, material in druge vire, ki so potrebni za izdelavo različnih orodij. To lahko pripomore k boljšemu načrtovanju proizvodnje, zmanjšanju stroškov in izboljšanju učinkovitosti dela v orodjarski industriji.
 
+*Slika 1: prva stran aplikacije*
+<img src="../images/app_1.png" alt="">
 
-### Prikaz step primera
+*Slika 2: prikaz 3D primera*
+<img src="../images/app_2.png" alt="">
+
+
+### Interaktiven prikaz step primera
 {% include 3luknje_h_d-sfa.html %}
